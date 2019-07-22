@@ -6,7 +6,7 @@
 	- md
 - Tiedostojen luonti, avaus, tallennus ja sulkeminen jollain komentorivin tekstieditolla.
 	- nano? 
-	- vim?
+	- vim? 
 - Erilaisten polkujen käyttäminen.
 - Kotihakemisto vs juurihakemisto.
 - Villikortti
@@ -15,13 +15,15 @@
 	- tail ja head?
 	- grep?
 - Tulosteen käsittely
-	- Putki \ |
+	- Putki \|
 	- \> ja \>\>
 - SSH-avainpari ja yhteys toiseen järjestelmään.
 - Osaa hakea internetistä siältöä komentorivillä
-	- wget
+	- wget? 
 - Oikeudet 
 - Bash
 - komentorivityökalujen asentaminen/hankkiminen
 - Googlaus
 
+<h2> Komentorivi </h2>
+Komentorivi on tietokoneen tekstikäyttöliittymä. Sillä voi esim. selata tiedostoja, käynnistää ohjelmia tai avata tiedostoja. 
