@@ -1,27 +1,27 @@
 <h2> Osaamistavotteita </h2>
 
-- Navigointi tiedostohallinnassa komentorivillä.
+- Navigointi tiedostohallinnassa komentorivillÃ¤.
 	- dir
 	- cd
 	- md
 - Tiedostojen luonti, avaus, tallennus ja sulkeminen jollain komentorivin tekstieditolla.
 	- nano? 
 	- vim?
-- Erilaisten polkujen käyttäminen.
+- Erilaisten polkujen kÃ¤yttÃ¤minen.
 - Kotihakemisto vs juurihakemisto.
 - Villikortti
-- tekstin käsittely komentorivillä
+- tekstin kÃ¤sittely komentorivillÃ¤
  	- cat?
 	- tail ja head?
 	- grep?
-- Tulosteen käsittely
+- Tulosteen kÃ¤sittely
 	- Putki \ |
 	- \> ja \>\>
-- SSH-avainpari ja yhteys toiseen järjestelmään.
-- Osaa hakea internetistä siältöä komentorivillä
+- SSH-avainpari ja yhteys toiseen jÃ¤rjestelmÃ¤Ã¤n.
+- Osaa hakea internetistÃ¤ siÃ¤ltÃ¶Ã¤ komentorivillÃ¤
 	- wget
 - Oikeudet 
 - Bash
-- komentorivityökalujen asentaminen/hankkiminen
+- komentorivityÃ¶kalujen asentaminen/hankkiminen
 - Googlaus
 
